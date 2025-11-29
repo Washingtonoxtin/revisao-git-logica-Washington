@@ -15,3 +15,15 @@ O git commit registra alterações de forma sistemática e incremental, criando 
 •	O Git opera por lógica dedutiva: dado um estado conhecido, os comandos produzem resultados previsíveis e determinísticos
 
 ALTERAÇÃO
+
+diff --git a/reflexao.txt b/reflexao.txt
+index cb811e8..b809842 100644
+--- a/reflexao.txt
++++ b/reflexao.txt
+@@ -14,3 +14,4 @@ O git commit registra alterações de forma sistemática e incremental, criando
+ •      git log: apresenta histórico estruturado permitindo deduções sobre a evolução
+ •      O Git opera por lógica dedutiva: dado um estado conhecido, os comandos produzem resultados previsíveis e determinísticos
+
++ALTERAÇÃO
+\ No newline at end of file
+
