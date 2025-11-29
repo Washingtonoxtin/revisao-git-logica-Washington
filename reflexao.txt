@@ -1,0 +1,16 @@
+1. Git e rastreabilidade
+A rastreabilidade permite acompanhar quem fez o quê e quando em um projeto. No Git, cada commit registra autor, data e alterações, criando um histórico completo que facilita identificar a origem de bugs, entender decisões passadas e coordenar trabalho em equipe sem conflitos.
+2. Branches e decomposição
+Branches dividem o desenvolvimento em partes isoladas (funcionalidades, correções), refletindo a decomposição computacional. Cada branch resolve um problema específico sem afetar o código principal, permitindo trabalho paralelo e organizado.
+3. Registro de mudanças e sistematização
+O git commit registra alterações de forma sistemática e incremental, criando pontos de controle. Isso estrutura a evolução do projeto em etapas rastreáveis, facilitando reversões, análises e compreensão da lógica de desenvolvimento.
+4. Dedução, indução e fundamentos lógicos
+•	Indutivo: observa casos particulares (ex: "estes 5 cisnes são brancos") para sugerir uma conclusão geral provável ("todos os cisnes são brancos"), mas não garantida.
+•	Dedutivo: parte de premissas aceitas (ex: "todos os humanos são mortais; Sócrates é humano") para conclusões certas ("Sócrates é mortal").
+•	A lógica organiza o pensamento científico e computacional, evitando erros conceituais como confundir generalização indutiva com prova dedutiva.
+5. Lógica computacional e Git
+•	git status: analisa logicamente o estado atual comparando com o último commit
+•	git diff: compara versões de forma dedutiva, mostrando diferenças exatas
+•	git log: apresenta histórico estruturado permitindo deduções sobre a evolução
+•	O Git opera por lógica dedutiva: dado um estado conhecido, os comandos produzem resultados previsíveis e determinísticos
+
