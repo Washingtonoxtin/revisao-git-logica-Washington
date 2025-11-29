@@ -14,3 +14,4 @@ O git commit registra alterações de forma sistemática e incremental, criando 
 •	git log: apresenta histórico estruturado permitindo deduções sobre a evolução
 •	O Git opera por lógica dedutiva: dado um estado conhecido, os comandos produzem resultados previsíveis e determinísticos
 
+ALTERAÇÃO
