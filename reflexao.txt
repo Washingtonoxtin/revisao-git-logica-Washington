@@ -27,3 +27,10 @@ index cb811e8..b809842 100644
 +ALTERAÇÃO
 \ No newline at end of file
 
+ git log --oneline --graph
+* ba0664e (HEAD -> main, origin/main, desenvolvimento) Adiciona análise do git diff
+* c75665c Adiciona reflexão sobre decomposição em branches
+* c12eda5 Adiciona reflexão inicial sobre lógica dedutiva no Git
+
+
+
